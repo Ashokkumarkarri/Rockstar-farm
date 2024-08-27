@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "gameName": "Vice City",
+    "image": "🌴",
+    "from": "Miami",
+    "hero": "Tommy Vercetti",
+    "difficulty": "☆☆☆☆",
+    "price": "6.50",
+    "adultry": true,
+    "description": "Vice City is a huge urban sprawl ranging from the beach to the swamps and the glitz to the ghetto, and is the most varied, complete, and alive digital city ever created."
+  },
+  {
+    "id": 1,
+    "gameName": "GTA III",
+    "image": "🚖",
+    "from": "Liberty City",
+    "hero": "Claude",
+    "difficulty": "☆☆☆",
+    "price": "5.00",
+    "adultry": true,
+    "description": "GTA III takes you to the mean streets of Liberty City, where crime is the only way to survive in a world of corruption and chaos."
+  },
+  {
+    "id": 2,
+    "gameName": "GTA IV",
+    "image": "🗽",
+    "from": "Liberty City",
+    "hero": "Niko Bellic",
+    "difficulty": "☆☆☆☆",
+    "price": "7.00",
+    "adultry": true,
+    "description": "In GTA IV, experience the life of Niko Bellic as he navigates the crime-ridden streets of Liberty City in search of the American Dream."
+  },
+  {
+    "id": 3,
+    "gameName": "GTA V",
+    "image": "🌇",
+    "from": "Los Santos",
+    "hero": "Michael, Franklin, Trevor",
+    "difficulty": "☆☆☆☆",
+    "price": "10.00",
+    "adultry": true,
+    "description": "GTA V offers a massive, detailed world with three playable characters, each with their own story, set in the sprawling city of Los Santos."
+  },
+  {
+    "id": 4,
+    "gameName": "Red Dead Redemption",
+    "image": "🤠",
+    "from": "The Wild West",
+    "hero": "John Marston",
+    "difficulty": "☆☆☆☆☆",
+    "price": "8.00",
+    "adultry": false,
+    "description": "Red Dead Redemption is an epic tale of life in America’s unforgiving heartland, where John Marston seeks to bury his past and forge a new future."
+  }
+]
